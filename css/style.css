@@ -1,0 +1,30 @@
+/* body {
+    background: rgb(136, 203, 171);
+    background: linear-gradient(0deg, rgb(136, 202, 170) 0%, rgb(19, 52, 172) 100%);
+} */
+
+#bars {
+    margin: 2em auto;
+    /* max-width: 960px; */
+    overflow: hidden;
+}
+
+.bar {
+    float: left;
+    /* width: 20%; */
+    text-align: center;
+    /* margin: 0 15px; */
+}
+
+h3 {
+    /* width: 20%; */
+    font-size: 1.4em;
+    font-weight: normal;
+    margin: 0 5px;
+    text-transform: uppercase;
+}
+
+.bar-circle {
+    display: block;
+    margin: 0.7em auto;
+}
